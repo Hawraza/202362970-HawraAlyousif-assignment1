@@ -72,6 +72,14 @@ included in the final project.
 
 For more details, see `docs/ai-usage-report.md`.
 
+## Additional Features
+
+In addition to the core assignment requirements, I added:
+
+- A Skills section to present my technical skills.
+- Real screenshots of my previous projects instead of placeholder images.
+- A custom pastel color theme for a more personalized portfolio design.
+- Hover effects and visual styling for cards and buttons.
 ## Author
 
 Hawra Alyousif
